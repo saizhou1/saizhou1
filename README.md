@@ -4,7 +4,7 @@
 [<img align="top" width="100%" src="https://github-readme-stats.vercel.app/api?username=saizhou1">](https://github-readme-stats.vercel.app/api?username=saizhou1)
 
 ---
-I'm **H**eavy, an undergraduate student at FDU.
+I'm **H**eavy, an graduate student at FDU.
 
 -   :hammer_and_pick: Python / Mysql / C++ / Matlab / Markdown 
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) 
