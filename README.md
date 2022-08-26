@@ -1,8 +1,7 @@
 ## Hey, Heavy here! :wave:
 ---
-[<img align="right" width="50%" src = "https://github-readme-stats.vercel.app/api?username=saizhou1&theme=dark">](https://github-readme-stats.vercel.app/api?username=saizhou1&theme=dark)
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=saizhou1">](https://github-readme-stats.vercel.app/api?username=saizhou1)
+[<img align="top" width="100%" src="https://github-readme-stats.vercel.app/api?username=saizhou1">](https://github-readme-stats.vercel.app/api?username=saizhou1)
 
 ---
 I'm **H**eavy, an undergraduate student at FDU.
