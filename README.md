@@ -1,16 +1,50 @@
-### Hi there 👋
+## Hey, Heavy here! :wave:
 
-<!--
-**saizhou1/saizhou1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="right" width="50%" src = "https://github-readme-stats.vercel.app/api?username=saizhou1&theme=dark">](https://github-readme-stats.vercel.app/api?username=saizhou1&theme=dark)
 
-Here are some ideas to get you started:
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=saizhou1">](https://github-readme-stats.vercel.app/api?username=saizhou1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm **H**eavy, an undergraduate student at FDU.
+
+-   :hammer_and_pick: Python / Mysql / C++ / Matlab / Markdown 
+-   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) 
+-   :seedling: Taking courses at FDU
+
+---
+
+#### :sparkles: [My followers]
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kevan-y0">
+        <img src="https://avatars.githubusercontent.com/u/81600855?v=4" width="100px;" alt="Kevan"/>
+      </a>
+      <br />
+      <a href="https://github.com/Kevan-y0">Kevan</a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+#### :bar_chart: [Programming language level](https://github.com/muety/wakapi)
+
+
+
+```text
+Python       skilled   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.09 %
+Mysql        skilled   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.09 %
+C++          ordinary  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.71 %
+Markdown     ordinary  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.18 %
+
+```
+
+---
+
+
+
+
