@@ -8,9 +8,9 @@ I'm **H**eavy, an undergraduate student at FDU.
 
 -   :hammer_and_pick: Python / Mysql / C++ / Matlab / Markdown 
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) 
--   :seedling: studying math at FDU
+-   :seedling: Studying math at FDU
 -   :key:  Research Interests:ML,DL,NLP(NER,RE,QA),Bioinformatics.
--   :thought_balloon: know little about:RL,GCN,Knowledge Graph,GAN
+-   :thought_balloon: Know little about:RL,GCN,Knowledge Graph,GAN
 
 
 
